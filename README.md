@@ -1,5 +1,5 @@
 
-# 💻 C Programming Journey
+# <head> C Programming Journey </head>
 
 <p align="center">
   <b>Learning C. Solving Problems. Building Strong Foundations.</b>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
 </p>
 
-## 👋 About This Repository
+##  About This Repository
 
 Welcome to my C Programming Journey!
 
@@ -24,7 +24,7 @@ I'm using this repository to:
 - Track my progress through hands-on coding.
 - Build a foundation for Data Structures and Algorithms.
 
-## 📚 Learning Roadmap
+##  Learning Roadmap
 
 | No. | Topic | Status |
 |---|---|---|
@@ -40,14 +40,14 @@ I'm using this repository to:
 | 10 | Dynamic Memory Allocation | ⏳ Upcoming |
 | 11 | Mini Projects | ⏳ Upcoming |
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - C Programming
 - GCC Compiler
 - Git & GitHub
 - Visual Studio Code
 
-## ▶️ How to Run a C Program
+##  How to Run a C Program
 
 Compile a C file:
 
@@ -67,7 +67,7 @@ Run on Linux:
 ./program
 ```
 
-## 🎯 My Goal
+##  My Goal
 
 To become confident in C programming, develop strong problem-solving skills and build a solid foundation for Data Structures and Algorithms.
 
