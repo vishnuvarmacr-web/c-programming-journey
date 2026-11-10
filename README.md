@@ -1,5 +1,5 @@
 
-# <head> C Programming Journey </head>
+# <head align="center"> C Programming Journey </head>
 
 <p align="center">
   <b>Learning C. Solving Problems. Building Strong Foundations.</b>
